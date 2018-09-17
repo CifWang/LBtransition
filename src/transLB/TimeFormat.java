@@ -5,11 +5,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
-/**
- * 处理时间
- * @author xcc
- *
- */
+
 public class TimeFormat {
 	
 	public final String timeZone="Etc/GMT+0";
